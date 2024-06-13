@@ -37,11 +37,8 @@ session_start()
             <a href="#achievements">Achievements</a>
             <a href="#message--us">Contact</a>
             <a href="#faqs">FAQ's</a>
-            <a href="home">our Doc</a>
-
-           
-             
-            <button><a href="{{asset('sign_up.php')}}">Join Us</a></button>
+                        
+            <button><a href="home">Join Us</a></button>
         </div>
     </nav>
     
